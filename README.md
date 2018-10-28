@@ -1,3 +1,3 @@
 # Coursera
 
-My summaries of Coursera Courses I've took 
+My summaries of the Coursera Courses I've took 
